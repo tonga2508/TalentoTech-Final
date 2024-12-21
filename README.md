@@ -14,7 +14,7 @@ Clona el repositorio o descarga los archivos:
    git clone https://github.com/tonga2508/TalentoTech-Final.git
    cd inventario
 
-Instala las dependencias
+Instala las dependencias:
 pip install -r requirements.txt
 
 Crea la db usando:
