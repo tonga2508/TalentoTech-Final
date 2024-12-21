@@ -9,7 +9,13 @@ Este programa permite gestionar un inventario de productos con opciones para reg
 
 ## Instalación
 
-1. Clona el repositorio o descarga los archivos:
+Clona el repositorio o descarga los archivos:
    ```bash
-   git clone https://github.com/usuario/inventario.git
+   git clone https://github.com/tonga2508/TalentoTech-Final.git
    cd inventario
+
+Instala las dependencias
+pip install -r requirements.txt
+
+Crea la db usando:
+mysql -u usuario -p < crear_base_datos.sql
