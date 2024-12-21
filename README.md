@@ -18,4 +18,4 @@ Instala las dependencias:
 pip install -r requirements.txt
 
 Crea la db usando:
-mysql -u usuario -p < crear_base_datos.sql
+mysql -u usuario -p < crearbase.sql
